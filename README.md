@@ -4,6 +4,18 @@
 
 ---
 
+## 📱 App Screenshots
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="preview_images/01.LoginSC.png" width="250" alt="Login Screen"/><br><sub><b>Login Screen</b></sub> | <img src="preview_images/02.SignUpSC.png" width="250" alt="Sign Up Screen"/><br><sub><b>Sign Up Screen</b></sub> | <img src="preview_images/03.SignUpSC2.png" width="250" alt="Sign Up Step 2"/><br><sub><b>Sign Up Step 2</b></sub> |
+| <img src="preview_images/04.ForgetPassSC.png" width="250" alt="Forgot Password"/><br><sub><b>Forgot Password</b></sub> | <img src="preview_images/05.HomeSC.png" width="250" alt="Home Screen"/><br><sub><b>Home Screen</b></sub> | <img src="preview_images/06.ExploreSC.png" width="250" alt="Explore Trips"/><br><sub><b>Explore Trips</b></sub> |
+| <img src="preview_images/07.ExploreFiltersSC.png" width="250" alt="Explore Filters"/><br><sub><b>Explore Filters</b></sub> | <img src="preview_images/08.CreateNewTripSC.png" width="250" alt="Create New Trip"/><br><sub><b>Create New Trip</b></sub> | <img src="preview_images/09.ProfileSC.png" width="250" alt="User Profile"/><br><sub><b>User Profile</b></sub> |
+| <img src="preview_images/10.ProfileSC2.png" width="250" alt="Profile Statistics"/><br><sub><b>Profile Statistics</b></sub> | <img src="preview_images/11.AccountSettingsSC.png" width="250" alt="Account Settings"/><br><sub><b>Account Settings</b></sub> | <img src="preview_images/12.AccountsSettingSC2.png" width="250" alt="Preferences"/><br><sub><b>Preferences</b></sub> |
+| <img src="preview_images/13.EditProfileSC.png" width="250" alt="Edit Profile"/><br><sub><b>Edit Profile</b></sub> | <img src="preview_images/14.ChangePassSC.png" width="250" alt="Change Password"/><br><sub><b>Change Password</b></sub> | <img src="preview_images/15.PrivacySettingSC.png" width="250" alt="Privacy Settings"/><br><sub><b>Privacy Settings</b></sub> |
+
+---
+
 ## Features
 
 ### Authentication
